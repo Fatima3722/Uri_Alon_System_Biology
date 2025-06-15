@@ -39,7 +39,7 @@ This simulation shows the circuit's response to a single, sustained step-input t
     ```bash
     pip install numpy matplotlib scipy
     ```
-2.  Navigate to this directory (`Uri_Alon_Systems_Biology/The Feedforward Loop Network Motif/The Feedforward Loop Network Motif.ipynb`).
+2.  Navigate to this directory (`The-Feedforward-Loop-Network-Motif/The_Feedforward_Loop_Network_Motif.ipynb`).
 3.  Run the script from your terminal:
     ```bash
     python 
