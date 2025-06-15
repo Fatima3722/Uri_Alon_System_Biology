@@ -37,7 +37,8 @@ The second part of the script analyzes what happens when the production rate (`Î
     ```bash
     pip install numpy matplotlib scipy
     ```
-2.  Navigate to this directory (`/Autoregulation/`).
+2.  Navigate to this directory (`Uri_Alon_System_Biology/Autoregulation
+/Autoregulation.ipynb`).
 3.  Run the script from your terminal:
     ```bash
     Autoregulation.ipynb
